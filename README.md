@@ -5,7 +5,6 @@ Repo para la asignatura de Visualización de datos del Máster de BD y Data Scie
 <br>
 AG1 - Visualización con google Spreadsheets de los datos de una pagina WEB con repositorio en StackBlitz y GitHub - Data Wrapper 
 <br>
-<br>
 AG2 - POWERBI
 <br>
 AG3 - Python y Colab
